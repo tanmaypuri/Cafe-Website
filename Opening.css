@@ -1,0 +1,25 @@
+body
+{
+  margin-left: 10px;
+  margin-right: 10px;
+  border: 5px solid DodgerBlue;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 25px;
+}
+h1
+{
+  color: DodgerBlue;
+  font-size: 35px;
+  margin: 10px;
+}
+.nav
+{
+  color: DodgerBlue;
+  text-decoration: none;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.opening{
+  padding-left: 15px;
+}
